@@ -32,6 +32,7 @@ Please make sure that the below pre-requisites are in place.
 	https://docs.docker.com/compose/install/ <br>
 	Install git cli <br>
 	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
+	Enable ip forwarding by running # sudo sysctl -w net.ipv4.ip_forward=1 <br>
 	Edit /etc/default/docker and add below line <br>
 	DOCKER_OPTS="-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock"
 	$ sudo service docker restart
