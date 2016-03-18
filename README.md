@@ -32,8 +32,8 @@ Please make sure that the below pre-requisites are in place.
 	https://docs.docker.com/compose/install/ <br>
 	Install git cli <br>
 	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
-4. Once Docker toolbox is installed click on "Docker Quickstart Terminal", accept all the pop-up prompts until you get docker image and "$" prompt. 
-5. Run the below commands on Docker terminal window to make sure the installation is fine and to download few components which are mandatory for successful training completion. <br>
+4. Once Docker toolbox is installed click on "Docker Quickstart Terminal", accept all the pop-up prompts until you get docker image and "$" prompt. For Linux users, login to system as root user. <br>
+5. Run the below commands on Docker terminal window to make sure the installation is fine and to download few components which are mandatory for successful training completion. Linux users can run these as root user. <br>
    $ docker pull hello-world <br>
    $ docker pull busybox <br>
    $ docker pull seqvence/static-site <br>
@@ -50,7 +50,7 @@ Please make sure that the below pre-requisites are in place.
    $ docker pull node:0.10 <br>
 
 
-6. Open "Oracle VM VirtualBox", you should see "default" machine with status "Running". <br>
+6. Applicable for Windows/MAC Users. Open "Oracle VM VirtualBox", you should see "default" machine with status "Running". <br>
    Right-click default on left-side of the window and select "Close" --> "Save state". (You can use Ctrl+V shotcut alternatively) <br>
    You should see the status changed from "Running" to "Saved". <br>
    NOTE: This step is very important. In case if you miss this step, make sure to re-do steps 4,5 and 6 above.
