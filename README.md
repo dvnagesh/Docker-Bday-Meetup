@@ -24,6 +24,14 @@ Please make sure that the below pre-requisites are in place.
    For MAC Users: <br>
 	Download link: https://github.com/docker/toolbox/releases/download/v1.10.3/DockerToolbox-1.10.3.pkg <br>
 	Installation instructions: https://docs.docker.com/mac/step_one/ <br>
+   For Linux Users: <br>
+	Install Docker Version 1.10.3  <br>
+	https://docs.docker.com/engine/installation/linux/fedora/ <br>
+	https://docs.docker.com/engine/installation/linux/ubuntulinux/ <br>
+	Install Docker-compose version 1.6.2 <br>
+	https://docs.docker.com/compose/install/ <br>
+	Install git cli <br>
+	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
 4. Once Docker toolbox is installed click on "Docker Quickstart Terminal", accept all the pop-up prompts until you get docker image and "$" prompt. 
 5. Run the below commands on Docker terminal window to make sure the installation is fine and to download few components which are mandatory for successful training completion. <br>
    $ docker pull hello-world <br>
