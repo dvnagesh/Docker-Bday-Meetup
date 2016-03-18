@@ -4,11 +4,11 @@ Pre-requisites for Docker B'Day Meetup
 Hello Everyone,
 
 Thanks for registering for this Event. 
-During the meetup, we will have exciting training which includes below.
-	- Self-based tutorials which cover basics of docker.
-	- Tutorials include building, shipping and running docker containers.
-	- Run and develop a cool simple micro-services app.
-	- Create your own version of the app and make it available in Docker Hub.
+During the meetup, we will have exciting training which includes below.<br>
+	- Self-based tutorials which cover basics of docker.<br>
+	- Tutorials include building, shipping and running docker containers.<br>
+	- Run and develop a cool simple micro-services app.<br>
+	- Create your own version of the app and make it available in Docker Hub.<br>
 
 Some of these might be new for you, don't worry, there will be mentors who will guide you through out the process.
 
