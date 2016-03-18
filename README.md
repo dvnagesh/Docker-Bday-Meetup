@@ -32,6 +32,9 @@ Please make sure that the below pre-requisites are in place.
 	https://docs.docker.com/compose/install/ <br>
 	Install git cli <br>
 	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
+	Edit /etc/default/docker and add below line <br>
+	DOCKER_OPTS="-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock"
+	$ sudo service docker restart
 4. Once Docker toolbox is installed click on "Docker Quickstart Terminal", accept all the pop-up prompts until you get docker image and "$" prompt. For Linux users, login to system as root user. <br>
 5. Run the below commands on Docker terminal window to make sure the installation is fine and to download few components which are mandatory for successful training completion. Linux users can run these as root user. <br>
    $ docker pull hello-world <br>
