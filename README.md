@@ -3,7 +3,7 @@ Pre-requisites for Docker B'Day Meetup
 
 Hello Everyone,
 
-Thanks for registering for this Event. I'm Venkata Nagesh, one of the Mentors for you.
+Thanks for registering for this Event. 
 During the meetup, we will have exciting training which includes below.
 	- Self-based tutorials which cover basics of docker.
 	- Tutorials include building, shipping and running docker containers.
