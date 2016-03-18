@@ -12,7 +12,7 @@ During the meetup, we will have exciting training which includes below.
 
 Some of these might be new for you, don't worry, there will be mentors who will guide you through out the process.
 
-To be able to complete the training successfully and get most out of this, we have listed down the pre-requisites which needs be taken care before coming for the meetup.
+To be able to complete the training successfully and get most out of this, we have listed down the pre-requisites which needs be taken care before coming to the meetup.
 Please make sure that the below pre-requisites are in place.
 
 1. You need to bring your laptop for doing the training and self-based tutorials.
