@@ -42,6 +42,7 @@ Please make sure that the below pre-requisites are in place.
    $ docker pull java:openjdk-8-jdk-alpine <br>
    $ docker pull redis:alpine <br>
    $ docker pull postgres:9.4 <br>
+   $ docker pull manomarks/worker <br>
    $ docker pull java:openjdk-8-jre-alpine <br> 
    $ docker pull java:7 <br>
    $ docker pull alpine <br>
