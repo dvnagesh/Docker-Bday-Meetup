@@ -29,5 +29,5 @@ Pre-requisites for Docker B'Day Scalable app using Docker Swarm.
 	$ sudo service docker restart
 3. Once Docker toolbox is installed click on "Docker Quickstart Terminal", accept all the pop-up prompts until you get docker image and "$" prompt. For Linux users, login to system as root user. <br>
 4. Install Docker swarm along with Consul Key-Value store. <br>
-	https://docs.docker.com/swarm/install-manual/
+	https://docs.docker.com/swarm/install-manual/ <br>
 	http://www.slideshare.net/venkatanageshdevarapalli/docker-clustering-meetup 
